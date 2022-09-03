@@ -11,7 +11,7 @@
     <mj-section>
       <mj-group>
         <mj-column padding="15px">
-          <mj-image padding="0" src="https://res.cloudinary.com/bizmalawi/image/upload/v1662163344/Illovo/Issue%202/5-gears_vhqhzd.png" />
+          <mj-image padding="0" src="http://illovo.co.mw/wp-content/uploads/2022/09/5-gears.png" />
           <mj-text align="center" color="#f1af33">
             <h2>5 gears of tiwale</h2>
           </mj-text>
@@ -21,7 +21,7 @@
           </mj-text>
         </mj-column>
         <mj-column padding="15px">
-          <mj-image padding="0" src="https://res.cloudinary.com/bizmalawi/image/upload/v1662163343/Illovo/Issue%202/light-duty_kzhajs.png" />
+          <mj-image padding="0" src="http://illovo.co.mw/wp-content/uploads/2022/09/light-duty.png" />
           <mj-text align="center" color="#f1af33">
             <h2>What you need to know about light duties</h2>
           </mj-text>

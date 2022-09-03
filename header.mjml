@@ -1,0 +1,13 @@
+<mj-section background-color="#ffffff">
+  <mj-group>
+    <mj-column>
+      <mj-image width="100px" padding="25px" src="https://res.cloudinary.com/bizmalawi/image/upload/v1630503286/Illovo/Logo%27s/Thriving_Community_i1mbem.png" alt="Thriving Community"></mj-image>
+    </mj-column>
+    <mj-column>
+      <mj-image width="500px" padding="40px" src="https://res.cloudinary.com/bizmalawi/image/upload/v1630503300/Illovo/Logo%27s/NZIMBE_spsqpm.png" fluid-on-mobile=true alt="Nzimbe Logo"></mj-image>
+    </mj-column>
+    <mj-column>
+      <mj-image width="125px" padding="25px" src="https://res.cloudinary.com/bizmalawi/image/upload/v1630503286/Illovo/Logo%27s/Illovo_Logo_xwmwoi.png" fluid-on-mobile=true alt="Illovo Logo"></mj-image>
+    </mj-column>
+  </mj-group>
+</mj-section>

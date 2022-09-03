@@ -1,0 +1,80 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Crimson" href="https://fonts.google.com/specimen/Crimson+Pro?query=Crimson+Pro" />
+    <mj-include path="./styles.mjml" />
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <!-- Header -->
+    <mj-include path="./header.mjml" />
+    <!-- Message from MD -->
+    <mj-include path="./message.mjml" />
+    <mj-section>
+      <mj-group>
+        <mj-column padding="15px">
+          <mj-image padding="0" src="https://res.cloudinary.com/bizmalawi/image/upload/v1662163344/Illovo/Issue%202/5-gears_vhqhzd.png" />
+          <mj-text align="center" color="#f1af33">
+            <h2>5 gears of tiwale</h2>
+          </mj-text>
+          <mj-text align="center" color="#047d3f" padding="0">
+            <p>Tiwale has 5 Gears that work together to deliver a vision of $350/ton. The gears were unpacked in 26 workshops, more than 40 Hours of Work in one day with over a 1000 post it notes! The leaders were tasked to think of initiatives that could drive the gears towards our ambition of business sustainability...
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column padding="15px">
+          <mj-image padding="0" src="https://res.cloudinary.com/bizmalawi/image/upload/v1662163343/Illovo/Issue%202/light-duty_kzhajs.png" />
+          <mj-text align="center" color="#f1af33">
+            <h2>What you need to know about light duties</h2>
+          </mj-text>
+          <mj-text align="center" color="#047d3f" padding="0">
+            <p>An employee who has had an On The Job injury/illness. This employee’s Line Manager shall refer the said employee to Occupational Health Office where a recommendation shall be made after rigorous assessment. Once recommendation has been made, the functional Line manager shall fully consider and attempt light - duty placement of an injured person...
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Also in this issue -->
+    <mj-include path="./also-featured.mjml" />
+    <mj-wrapper>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-text font-size="10px" color="#047d3f" align="center">
+            Illovo Sugar Malawi plc - Dwangwa - Malawi
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <!-- <mj-text font-size="10px" color="#047d3f" align="center"><a href="https://www.illovosugarafrica.com">
+              https://www.illovosugarafrica.com </a></mj-text> -->
+          <mj-text font-size="10px" color="#047d3f" align="center"><a href="mailto:nzimbefeedback@illovo.mw">
+              nzimbefeedback@illovo.mw</a></mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-social font-size="10px" icon-size="15px" mode="horizontal">
+            <mj-social-element name="facebook" href="https://web.facebook.com/illovosugarmwplc">
+
+            </mj-social-element>
+            <mj-social-element name="instagram" href="https://www.instagram.com/illovosugarmalawiplc/">
+
+            </mj-social-element>
+            <mj-social-element name="linkedin" href="https://web.facebook.com/illovosugarmwplc">
+
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text font-size="10px" color="#047d3f" align="center">
+            ©2021 Illovo Sugar Malawi plc. All rights reserved.
+          </mj-text>
+
+        </mj-column>
+
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

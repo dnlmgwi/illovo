@@ -1,0 +1,70 @@
+<mj-wrapper padding-top="0">
+  <mj-section padding="0">
+    <mj-column padding="0">
+      <mj-text align="center" color="#047d3f" padding-bottom="0">
+        Also in this issue
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <mj-section>
+    <mj-column>
+      <mj-text align="left" color="#f1af33" font-size="15px" font-weight="bold">
+        People Connected
+      </mj-text>
+      <mj-text align="left" color="#047d3f" padding-top="0">
+        All about Tiwale
+      </mj-text>
+    </mj-column>
+
+  </mj-section>
+  <mj-section padding-top="0">
+    <mj-column>
+      <mj-text align="left" color="#f1af33" font-size="15px" font-weight="bold">
+        News from the trade
+      </mj-text>
+      <mj-text align="left" color="#047d3f" padding-top="0">
+        Iponyereniso kwakuya ndi illovo promotion
+      </mj-text>
+    </mj-column>
+
+  </mj-section>
+  <mj-section padding-top="0">
+    <mj-column>
+      <mj-text align="left" color="#f1af33" font-size="15px" font-weight="bold">
+        From Cane To Sugar
+      </mj-text>
+      <mj-text align="left" color="#047d3f" padding-top="0">
+        New Season starts at Dwangwa
+      </mj-text>
+    </mj-column>
+
+  </mj-section>
+  <mj-section padding-top="0">
+    <mj-column>
+      <mj-text align="left" color="#f1af33" font-size="15px" font-weight="bold">
+        Community Connected
+      </mj-text>
+      <mj-text align="left" color="#047d3f" padding-top="0">
+        Illovo donates a blood bank to Chikwawa District Hospital
+      </mj-text>
+    </mj-column>
+
+  </mj-section>
+  <mj-section padding-top="0">
+    <mj-column>
+      <mj-text align="left" color="#f1af33" font-size="15px" font-weight="bold">
+        Illovo Safe
+      </mj-text>
+      <mj-text align="left" color="#047d3f" padding-top="0">
+        ISM Dwangwa pre-season Sherq awareness campaign
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <mj-section>
+    <mj-column>
+      <mj-button href="_blank" background-color="#047d3f" height="15px">
+        Read More
+      </mj-button>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>

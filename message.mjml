@@ -1,0 +1,13 @@
+<mj-hero mode="fixed-height" height="300px" background-width="600px" background-height="300px" background-color="#047d3f" padding="100px 0px" background-url="https://res.cloudinary.com/bizmalawi/image/upload/v1662159941/Illovo/Issue%202/md-message_nddayn.png">
+
+  <mj-text align="center" line-height="45px" padding="20px" color="#f1af33" font-size="45px" font-weight="bold">
+    Message from MD
+  </mj-text>
+  <mj-text color="white">
+    Hello everyone, I hope you will enjoy this issue of the Mzimbe magazine as we start a new journey through a refreshed and enhanced strategic direction. Having moved from the Tisinthe mindset where our strategy was primarily focused on ensuring cost reduction and a performance turnaround for our business. I am glad to say that we did achieve a lot under Tisinthe which included reducing our costs by over 30 billion and allowing for reduction of our debt to much manageable levels...
+  </mj-text>
+  <!-- TODO -->
+  <mj-button href="" align="center" background-color="#f1af33">
+    Read Now
+  </mj-button>
+</mj-hero>

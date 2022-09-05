@@ -62,8 +62,7 @@
   </mj-section>
   <mj-section>
     <mj-column>
-      <!-- TODO -->
-      <mj-button href="_blank" background-color="#047d3f" height="15px">
+      <mj-button href="https://illovo.co.mw/illovo-newsletter/" background-color="#047d3f" height="15px">
         Read More
       </mj-button>
     </mj-column>

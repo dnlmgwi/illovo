@@ -69,11 +69,9 @@
       <mj-section>
         <mj-column>
           <mj-text font-size="10px" color="#047d3f" align="center">
-            ©2021 Illovo Sugar Malawi plc. All rights reserved.
+            ©2022 Illovo Sugar Malawi plc. All rights reserved.
           </mj-text>
-
         </mj-column>
-
       </mj-section>
     </mj-wrapper>
   </mj-body>
